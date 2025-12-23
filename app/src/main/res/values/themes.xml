@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.QuoteApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#C41C00</item>
+        <item name="colorAccent">#03DAC6</item>
+    </style>
+</resources>
