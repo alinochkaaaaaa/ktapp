@@ -1,0 +1,67 @@
+echo "# Built files
+/build/
+/out/
+*.apk
+*.ap_
+*.jar
+*.class
+
+# Gradle files
+.gradle/
+gradle-app.setting
+
+# Local configuration file
+local.properties
+
+# Android Studio files
+*.iml
+.idea/
+.cxx/
+*.log
+git add .
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+gen/
+production/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Windows
+[Dd]esktop.ini
+
+# Linux
+*~
+
+# Backup folder
+backup/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md" > .gitignore
