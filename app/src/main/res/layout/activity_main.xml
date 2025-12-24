@@ -6,18 +6,18 @@
     android:orientation="vertical"
     android:padding="20dp"
     android:gravity="center"
-    android:background="#FFE7D9"
+    android:background="#ECCFEF"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/titleTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
         android:text="Цитаты великих людей"
+        android:textColor="#1B1BB3"
         android:textSize="24sp"
-        android:textStyle="bold"
-        android:textColor="#FF5722"
-        android:layout_marginBottom="40dp" />
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/quoteTextView"
@@ -28,28 +28,75 @@
         android:textColor="#333333"
         android:gravity="center"
         android:padding="20dp"
-        android:background="#FFFFFF"
-        android:layout_marginBottom="30dp" />
+        android:background="@drawable/rounded_bg"
+        android:layout_marginBottom="20dp" />
 
     <TextView
         android:id="@+id/authorTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
         android:text="Автор цитаты"
+        android:textColor="#C861D3"
         android:textSize="16sp"
-        android:textStyle="italic"
-        android:textColor="#FF5722"
-        android:layout_marginBottom="40dp" />
+        android:textStyle="italic" />
 
-    <Button
-        android:id="@+id/nextButton"
+    <!-- Кнопки для навигации по цитатам -->
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Следующая цитата"
-        android:textSize="16sp"
-        android:paddingHorizontal="30dp"
-        android:paddingVertical="15dp"
-        android:background="#FF5722"
-        android:textColor="#FFFFFF" />
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp">
+
+        <Button
+            android:id="@+id/prevButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:background="#6060E4"
+            android:paddingHorizontal="20dp"
+            android:text="◀"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#2A2A97"
+            android:paddingHorizontal="20dp"
+            android:text="▶"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+    <!-- Кнопки для управления цитатами -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:id="@+id/addQuoteButton"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="#CB5DD7	"
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="10dp"
+            android:text="Добавить цитату"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/deleteQuoteButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#DF81E9"
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="10dp"
+            android:text="Удалить цитату"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
 
 </LinearLayout>
