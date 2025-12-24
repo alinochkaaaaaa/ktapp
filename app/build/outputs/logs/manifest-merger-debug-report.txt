@@ -4,66 +4,74 @@ ADDED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidMan
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\0dfb3bb316c2c93c5b867b343dfe691b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\8cb8f02e6badc81c573442c595e1a087\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\8.13\transforms\f2e8386ed9fc3b10fb14d5429485ba15\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\80329c7aae2b7f44a786b680f32852e3\transformed\material3-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\639d4d78589e3350f4ea3c5e2a7c6776\transformed\material-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b9f8c07cf48c06ffdcb872a8f0c38c69\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89804293a46f08a9882ebb00c8a526fb\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d7776b43aa15aee9f4a2e0fe8d629024\transformed\animation-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\bbae8464e3a5546e753ffde668775592\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89f23efc57fec3eed200f42787a6976c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\708ea67f504d1b2a74c20137f3f7a873\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\66d064d32adbcd6c5e34357d0770c2c9\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\97fa24b627f39042dc62566e2a0123b9\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\e7d4868616355f30a7b6a21f52a10862\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f5318aeaa5fc13c0574fb1bb0b449479\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\687f21832ddcf02b5874892d8cec3b2b\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\95bd98095cbb595bd134365f1638e6f5\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\02b10097a13c7fafd1c7f28cb746130b\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\5c01d09d432e600de5f4e725675eb425\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\b428881f1c08783b02be34a9c8c06052\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\2edbdde11fc4fe02aec102f22ed7da8b\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\aec6d01e6a1945535bc76f430fd17ba8\transformed\ui-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\ef053afc503400f34bc04eccaaa71b48\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a5a1bd93b643f219c5bc55bd6b9365ca\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\39bfbd0f4b4e8b703d27be7279519a1e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\6a017e4b53d0adda5835a90fdfbe1c9f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\3763b273723b77973f5dc0f684a46ff5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\384886365dbaafee59b055d21a77f1f4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f07d22a2fac3449545ce182f9e07489d\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\40a84051bda7f62f34c12e7b0bcca6df\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kosta\.gradle\caches\8.13\transforms\96dafb4b7ab1acc9b5d8007207858aa3\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f92a8f3b650c01d3f554b4d1cd0986e7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\573528c9ef31b1b664fcd7002c6c64ab\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\70cec95b4ff7d17b46075e1731ff673f\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\9f24863fca43b1ad92d8aa785496fb88\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\2b5327d0125a2551604c14fcac8154ca\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\d01315cf139e61fd9ccad7a708eeabb4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\b02f670ddf7e914d1fc4cf630c6d1b73\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\64b127b368656369f6251b3c2080d334\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\8a8ff3cc2917a201eb8214d68c24d036\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\dbebd4bb5ea4091c43d9f85d126f0dce\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\3a3c88e41d6c9dda6f51fac8da02c6ef\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\656f6a4a7eb3778b1b3183fd773a32e7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\bca3ce23c8064ee6204624956aefb71b\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\72a5042255f99489b06e53e8bbc892c3\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b039b2554fb203759840b2273307f8ce\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\41491726acdb2983847bb8612ba7baa2\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a523c26a9527ae17f174ccf1de0b4d4b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\1c0b2dc8732f069cda61f3d842c1e883\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\afd3a4294067c540d1d20a71606625dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\ae1c136dfdafe49a10109af1dd950371\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d1ea47251e9243536f6b8680c95666ee\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\8.13\transforms\453f4e7611f3c193df05dbe557021564\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5e00f626b2b950af2f602e73584cc21f\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\fc75d47e0df03124d3b7499d285349c4\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a5082baa7b8af818745298101cb87e18\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\818440df55c5b22950fdce982f2f1b19\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ccebe48eafbe1a675758aae4d698435f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4eb33b352520fdbc68b03b81c9bbb9b3\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\623827bf8dab3282d03026e9d60f7e33\transformed\material3-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1f5ff2ebd025da0a5225da4209a7506f\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3ade32bb41bf900c7806165d7d4fe4fe\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2abc2dca4ba1d6ec06ea84607c3d39fb\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9cb39aadcbc5f75ca0924ac80510ce6c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\714a2c6cd510fdf0e3ead4e16457c621\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\70dc20befad5e1e7a66b1754632fd1d7\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c33a7baec4222f1f307c609742b3fa00\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6e83ea2809d3f8ccccf5c503f5e53b5\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\05508538d00667b127976b8c6e9b9f72\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4c3998c514c4b30874e3985dd4e9029e\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7082408524d3f62936bc88c45b0874e8\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c9fe2818d930030ecef214698babfa54\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\aef5fad5c4b3c65b6fabefe7fff190fd\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\89c20777c036da02ba3ff8439975b027\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\6b9104a804d343cd824e83b11349f29c\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\06a45010f02b1c755b26e449a3a6c3a6\transformed\activity-compose-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\877df9b802609d232b3d320393ed32fd\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\53f5a42b6069835b3a8a91863adc9f4f\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\27a03a4e07c00e27e7b038c7c131ce2c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\769fe60dc4d5b71d723f7f8d3eeab412\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d7fd40c95e4affce9b296d98c5ba8aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\dfd13a6e96737b103610822f40311c66\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\50068465fd0bb4cd6f04a27e4e9d351b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6ac8f4262aa58d0272e2e5ea240d2b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7603b0d45516a0cd7dc743ea0218e3b7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c7d9851b78b1c2503cce6d3d3e7fc5f3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\55be7ba9ddce7a93171c36bafc692331\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1693b9e5d6854f79b950d6df03b57f90\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3909f08d2629f86d3ddfcee168293013\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a57842c2e92ec34e0b016f3361cb5aae\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1689d77653e21450e24e475477d8bc3d\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7e55c6b7b643c3233902e17e4c6faf4a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8b4362e5ecd449c260010b4cd8084d27\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d7fca6e2a303cb6bc78995a6ede479ba\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\b4f71cf9413e8d5fdea39624ec5b8313\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\75d80d0a3106a168af7db199e03b067b\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9125cdc39e0ab7df9d5acd03cf66430f\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0e8eeecae883e5aa4c4c85cd30b435b8\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8f7062fe9ca96f0433acf51309f9b2e4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e58710043eabf505ecf4a13340416bd2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\94b023d890d580a17a7e039a626cc5a2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\86bbd897d9be00cd151d2bae5b16b442\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0cef7e46ae6b2b60150f79e1c5f8a0a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f8fa27a0666426e58b69a406faad7d67\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5a67d35d10a3f950eb2b1b09584a4ce8\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e1330743f6d006ba5e55c52dd72a1796\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9c406f22b097e9e801a66122e0243e1c\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5d36b42f5b2128e56118ca54e62e7b47\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\74a4515ced084b955fb0f084adcf6d9a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3c056882c8372d249db9156235540e2c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c23eec21750b23a5497c695e93800d88\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d3f9afc9d2e19fc37042c97b9ab641c3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2633b50e73e99e24c7cb36530b4811af\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\97ec8160cbed93f2005eb995d7d1283b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -77,26 +85,30 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\cache
 application
 ADDED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:5:5-25:19
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:5:5-25:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\1c0b2dc8732f069cda61f3d842c1e883\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\1c0b2dc8732f069cda61f3d842c1e883\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5e00f626b2b950af2f602e73584cc21f\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5e00f626b2b950af2f602e73584cc21f\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a5082baa7b8af818745298101cb87e18\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a5082baa7b8af818745298101cb87e18\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\74a4515ced084b955fb0f084adcf6d9a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\74a4515ced084b955fb0f084adcf6d9a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -137,229 +149,245 @@ uses-sdk
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\0dfb3bb316c2c93c5b867b343dfe691b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\0dfb3bb316c2c93c5b867b343dfe691b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\8cb8f02e6badc81c573442c595e1a087\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\8.13\transforms\8cb8f02e6badc81c573442c595e1a087\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\8.13\transforms\f2e8386ed9fc3b10fb14d5429485ba15\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\8.13\transforms\f2e8386ed9fc3b10fb14d5429485ba15\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\80329c7aae2b7f44a786b680f32852e3\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\80329c7aae2b7f44a786b680f32852e3\transformed\material3-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\639d4d78589e3350f4ea3c5e2a7c6776\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\639d4d78589e3350f4ea3c5e2a7c6776\transformed\material-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b9f8c07cf48c06ffdcb872a8f0c38c69\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b9f8c07cf48c06ffdcb872a8f0c38c69\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89804293a46f08a9882ebb00c8a526fb\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89804293a46f08a9882ebb00c8a526fb\transformed\foundation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d7776b43aa15aee9f4a2e0fe8d629024\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d7776b43aa15aee9f4a2e0fe8d629024\transformed\animation-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\bbae8464e3a5546e753ffde668775592\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\bbae8464e3a5546e753ffde668775592\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89f23efc57fec3eed200f42787a6976c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\89f23efc57fec3eed200f42787a6976c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\708ea67f504d1b2a74c20137f3f7a873\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\708ea67f504d1b2a74c20137f3f7a873\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\66d064d32adbcd6c5e34357d0770c2c9\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\66d064d32adbcd6c5e34357d0770c2c9\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\97fa24b627f39042dc62566e2a0123b9\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\97fa24b627f39042dc62566e2a0123b9\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\e7d4868616355f30a7b6a21f52a10862\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\e7d4868616355f30a7b6a21f52a10862\transformed\ui-util-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f5318aeaa5fc13c0574fb1bb0b449479\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f5318aeaa5fc13c0574fb1bb0b449479\transformed\ui-text-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\687f21832ddcf02b5874892d8cec3b2b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\687f21832ddcf02b5874892d8cec3b2b\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\95bd98095cbb595bd134365f1638e6f5\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\95bd98095cbb595bd134365f1638e6f5\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\02b10097a13c7fafd1c7f28cb746130b\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\02b10097a13c7fafd1c7f28cb746130b\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\5c01d09d432e600de5f4e725675eb425\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\5c01d09d432e600de5f4e725675eb425\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\b428881f1c08783b02be34a9c8c06052\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\kosta\.gradle\caches\8.13\transforms\b428881f1c08783b02be34a9c8c06052\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\2edbdde11fc4fe02aec102f22ed7da8b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\2edbdde11fc4fe02aec102f22ed7da8b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\aec6d01e6a1945535bc76f430fd17ba8\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\aec6d01e6a1945535bc76f430fd17ba8\transformed\ui-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\ef053afc503400f34bc04eccaaa71b48\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\ef053afc503400f34bc04eccaaa71b48\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a5a1bd93b643f219c5bc55bd6b9365ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a5a1bd93b643f219c5bc55bd6b9365ca\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\39bfbd0f4b4e8b703d27be7279519a1e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\39bfbd0f4b4e8b703d27be7279519a1e\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\6a017e4b53d0adda5835a90fdfbe1c9f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\6a017e4b53d0adda5835a90fdfbe1c9f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\3763b273723b77973f5dc0f684a46ff5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\8.13\transforms\3763b273723b77973f5dc0f684a46ff5\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\384886365dbaafee59b055d21a77f1f4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\384886365dbaafee59b055d21a77f1f4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f07d22a2fac3449545ce182f9e07489d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f07d22a2fac3449545ce182f9e07489d\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\40a84051bda7f62f34c12e7b0bcca6df\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\40a84051bda7f62f34c12e7b0bcca6df\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kosta\.gradle\caches\8.13\transforms\96dafb4b7ab1acc9b5d8007207858aa3\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kosta\.gradle\caches\8.13\transforms\96dafb4b7ab1acc9b5d8007207858aa3\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f92a8f3b650c01d3f554b4d1cd0986e7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\f92a8f3b650c01d3f554b4d1cd0986e7\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\573528c9ef31b1b664fcd7002c6c64ab\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\573528c9ef31b1b664fcd7002c6c64ab\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\70cec95b4ff7d17b46075e1731ff673f\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\70cec95b4ff7d17b46075e1731ff673f\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\9f24863fca43b1ad92d8aa785496fb88\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\9f24863fca43b1ad92d8aa785496fb88\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\2b5327d0125a2551604c14fcac8154ca\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\2b5327d0125a2551604c14fcac8154ca\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\d01315cf139e61fd9ccad7a708eeabb4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\d01315cf139e61fd9ccad7a708eeabb4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\b02f670ddf7e914d1fc4cf630c6d1b73\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\b02f670ddf7e914d1fc4cf630c6d1b73\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\64b127b368656369f6251b3c2080d334\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\64b127b368656369f6251b3c2080d334\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\8a8ff3cc2917a201eb8214d68c24d036\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\8a8ff3cc2917a201eb8214d68c24d036\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\dbebd4bb5ea4091c43d9f85d126f0dce\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\dbebd4bb5ea4091c43d9f85d126f0dce\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\3a3c88e41d6c9dda6f51fac8da02c6ef\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\3a3c88e41d6c9dda6f51fac8da02c6ef\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\656f6a4a7eb3778b1b3183fd773a32e7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\656f6a4a7eb3778b1b3183fd773a32e7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\bca3ce23c8064ee6204624956aefb71b\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\bca3ce23c8064ee6204624956aefb71b\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\72a5042255f99489b06e53e8bbc892c3\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\8.13\transforms\72a5042255f99489b06e53e8bbc892c3\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b039b2554fb203759840b2273307f8ce\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\b039b2554fb203759840b2273307f8ce\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\41491726acdb2983847bb8612ba7baa2\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\41491726acdb2983847bb8612ba7baa2\transformed\runtime-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a523c26a9527ae17f174ccf1de0b4d4b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\kosta\.gradle\caches\8.13\transforms\a523c26a9527ae17f174ccf1de0b4d4b\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\1c0b2dc8732f069cda61f3d842c1e883\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\1c0b2dc8732f069cda61f3d842c1e883\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\afd3a4294067c540d1d20a71606625dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\afd3a4294067c540d1d20a71606625dd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\ae1c136dfdafe49a10109af1dd950371\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\ae1c136dfdafe49a10109af1dd950371\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d1ea47251e9243536f6b8680c95666ee\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d1ea47251e9243536f6b8680c95666ee\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\8.13\transforms\453f4e7611f3c193df05dbe557021564\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\8.13\transforms\453f4e7611f3c193df05dbe557021564\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5e00f626b2b950af2f602e73584cc21f\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5e00f626b2b950af2f602e73584cc21f\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\fc75d47e0df03124d3b7499d285349c4\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\fc75d47e0df03124d3b7499d285349c4\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a5082baa7b8af818745298101cb87e18\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a5082baa7b8af818745298101cb87e18\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\818440df55c5b22950fdce982f2f1b19\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\818440df55c5b22950fdce982f2f1b19\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ccebe48eafbe1a675758aae4d698435f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ccebe48eafbe1a675758aae4d698435f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4eb33b352520fdbc68b03b81c9bbb9b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4eb33b352520fdbc68b03b81c9bbb9b3\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\623827bf8dab3282d03026e9d60f7e33\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\623827bf8dab3282d03026e9d60f7e33\transformed\material3-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1f5ff2ebd025da0a5225da4209a7506f\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1f5ff2ebd025da0a5225da4209a7506f\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3ade32bb41bf900c7806165d7d4fe4fe\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3ade32bb41bf900c7806165d7d4fe4fe\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2abc2dca4ba1d6ec06ea84607c3d39fb\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2abc2dca4ba1d6ec06ea84607c3d39fb\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9cb39aadcbc5f75ca0924ac80510ce6c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9cb39aadcbc5f75ca0924ac80510ce6c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\714a2c6cd510fdf0e3ead4e16457c621\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\714a2c6cd510fdf0e3ead4e16457c621\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\70dc20befad5e1e7a66b1754632fd1d7\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\70dc20befad5e1e7a66b1754632fd1d7\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c33a7baec4222f1f307c609742b3fa00\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c33a7baec4222f1f307c609742b3fa00\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6e83ea2809d3f8ccccf5c503f5e53b5\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6e83ea2809d3f8ccccf5c503f5e53b5\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\05508538d00667b127976b8c6e9b9f72\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\05508538d00667b127976b8c6e9b9f72\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4c3998c514c4b30874e3985dd4e9029e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\4c3998c514c4b30874e3985dd4e9029e\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7082408524d3f62936bc88c45b0874e8\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7082408524d3f62936bc88c45b0874e8\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c9fe2818d930030ecef214698babfa54\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c9fe2818d930030ecef214698babfa54\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\aef5fad5c4b3c65b6fabefe7fff190fd\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\aef5fad5c4b3c65b6fabefe7fff190fd\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\89c20777c036da02ba3ff8439975b027\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\89c20777c036da02ba3ff8439975b027\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\6b9104a804d343cd824e83b11349f29c\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\6b9104a804d343cd824e83b11349f29c\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\06a45010f02b1c755b26e449a3a6c3a6\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\06a45010f02b1c755b26e449a3a6c3a6\transformed\activity-compose-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\877df9b802609d232b3d320393ed32fd\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\877df9b802609d232b3d320393ed32fd\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\53f5a42b6069835b3a8a91863adc9f4f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\53f5a42b6069835b3a8a91863adc9f4f\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\27a03a4e07c00e27e7b038c7c131ce2c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\27a03a4e07c00e27e7b038c7c131ce2c\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\769fe60dc4d5b71d723f7f8d3eeab412\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\769fe60dc4d5b71d723f7f8d3eeab412\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d7fd40c95e4affce9b296d98c5ba8aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d7fd40c95e4affce9b296d98c5ba8aa\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\dfd13a6e96737b103610822f40311c66\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\dfd13a6e96737b103610822f40311c66\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\50068465fd0bb4cd6f04a27e4e9d351b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\50068465fd0bb4cd6f04a27e4e9d351b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6ac8f4262aa58d0272e2e5ea240d2b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f6ac8f4262aa58d0272e2e5ea240d2b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7603b0d45516a0cd7dc743ea0218e3b7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7603b0d45516a0cd7dc743ea0218e3b7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c7d9851b78b1c2503cce6d3d3e7fc5f3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c7d9851b78b1c2503cce6d3d3e7fc5f3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\55be7ba9ddce7a93171c36bafc692331\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\55be7ba9ddce7a93171c36bafc692331\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1693b9e5d6854f79b950d6df03b57f90\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1693b9e5d6854f79b950d6df03b57f90\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3909f08d2629f86d3ddfcee168293013\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3909f08d2629f86d3ddfcee168293013\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a57842c2e92ec34e0b016f3361cb5aae\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\a57842c2e92ec34e0b016f3361cb5aae\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1689d77653e21450e24e475477d8bc3d\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\1689d77653e21450e24e475477d8bc3d\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7e55c6b7b643c3233902e17e4c6faf4a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7e55c6b7b643c3233902e17e4c6faf4a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8b4362e5ecd449c260010b4cd8084d27\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8b4362e5ecd449c260010b4cd8084d27\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d7fca6e2a303cb6bc78995a6ede479ba\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d7fca6e2a303cb6bc78995a6ede479ba\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\b4f71cf9413e8d5fdea39624ec5b8313\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\b4f71cf9413e8d5fdea39624ec5b8313\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\75d80d0a3106a168af7db199e03b067b\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\75d80d0a3106a168af7db199e03b067b\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9125cdc39e0ab7df9d5acd03cf66430f\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9125cdc39e0ab7df9d5acd03cf66430f\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0e8eeecae883e5aa4c4c85cd30b435b8\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0e8eeecae883e5aa4c4c85cd30b435b8\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8f7062fe9ca96f0433acf51309f9b2e4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\8f7062fe9ca96f0433acf51309f9b2e4\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e58710043eabf505ecf4a13340416bd2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e58710043eabf505ecf4a13340416bd2\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\94b023d890d580a17a7e039a626cc5a2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\94b023d890d580a17a7e039a626cc5a2\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\86bbd897d9be00cd151d2bae5b16b442\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\86bbd897d9be00cd151d2bae5b16b442\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0cef7e46ae6b2b60150f79e1c5f8a0a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\0cef7e46ae6b2b60150f79e1c5f8a0a7\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f8fa27a0666426e58b69a406faad7d67\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f8fa27a0666426e58b69a406faad7d67\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5a67d35d10a3f950eb2b1b09584a4ce8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5a67d35d10a3f950eb2b1b09584a4ce8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e1330743f6d006ba5e55c52dd72a1796\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\e1330743f6d006ba5e55c52dd72a1796\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9c406f22b097e9e801a66122e0243e1c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\9c406f22b097e9e801a66122e0243e1c\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5d36b42f5b2128e56118ca54e62e7b47\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\5d36b42f5b2128e56118ca54e62e7b47\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\74a4515ced084b955fb0f084adcf6d9a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\74a4515ced084b955fb0f084adcf6d9a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3c056882c8372d249db9156235540e2c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\3c056882c8372d249db9156235540e2c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c23eec21750b23a5497c695e93800d88\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\c23eec21750b23a5497c695e93800d88\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d3f9afc9d2e19fc37042c97b9ab641c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\d3f9afc9d2e19fc37042c97b9ab641c3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2633b50e73e99e24c7cb36530b4811af\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\2633b50e73e99e24c7cb36530b4811af\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\97ec8160cbed93f2005eb995d7d1283b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\97ec8160cbed93f2005eb995d7d1283b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\kosta\AndroidStudioProjects\QuoteApp\app\src\main\AndroidManifest.xml
-activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:25:13-36
-	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\c722a6f22a56843b0d3f67f3082599e2\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:24:13-63
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\kosta\.gradle\caches\8.13\transforms\d9f0bfc83a89130d6a05a2a3498aaa0d\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\afb0025ed8af352f8e987327ad276027\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ee654e37f7f270a9be51d64f7cec3574\transformed\ui-test-manifest-1.5.0\AndroidManifest.xml:24:13-63
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\8.13\transforms\37c811980b01d0b208387baabecc0bfd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\ceffcb069345f7d11e24007a00f73430\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kosta\.gradle\caches\8.13\transforms\fe1936fad5e0516b5967fe17d6b7a3cc\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f4cfda6a42130480858f584d27e44b57\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 permission#com.example.quoteapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 uses-permission#com.example.quoteapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\kosta\.gradle\caches\8.13\transforms\09e1b2959a23b0d1bf9a0f5a8c7696e7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.12.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\102bb4ca6e8b3e009636483291d8df3f\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kosta\.gradle\caches\8.13\transforms\af3c65b54c29b01df61cd69590701117\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\f24f9d09266c1d88a47aa0baf9e46802\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kosta\.gradle\caches\8.13\transforms\c07860e605fe408fa2cff268af39810c\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\kosta\.gradle\caches\9.0-milestone-1\transforms\7d0839d17f83ba0f2cbd69796685398f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
